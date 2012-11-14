@@ -15,7 +15,6 @@ namespace Tests.SharpArch.Web.Mvc.ModelBinder
 
     using global::SharpArch.Domain.DomainModel;
     using global::SharpArch.Domain.PersistenceSupport;
-    using global::SharpArch.Web.Mvc.Castle;
     using global::SharpArch.Web.Mvc.ModelBinder;
 
     using Microsoft.Practices.ServiceLocation;
